@@ -92,6 +92,7 @@ Figure 10:
 <img width="362" alt="image" src="https://github.com/ivy-zeng/EPID700/assets/80360434/d15005c0-eb56-4a09-ba67-8228700c17e5">
 
 ## References
+#### *Not the complete list*
 
 1.	https://www.prisonpolicy.org/global/2021.html
 2.	Schachat AP. What is HIPAA and what effect may it have on our journal? Ophthalmology. 2003;110(6):1074-1075. doi:10.1016/S0161-6420(03)00252-5
